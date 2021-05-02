@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "HansSchouten\\LaravelPageBuilder\\": "src/"
+            "InnoLabGlobal\\LaravelPageBuilder\\": "src/"
         }
     },
     "minimum-stability": "dev",
@@ -27,10 +27,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "HansSchouten\\LaravelPageBuilder\\ServiceProvider"
+                "InnoLabGlobal\\LaravelPageBuilder\\ServiceProvider"
             ],
             "aliases": {
-                "PageBuilder": "HansSchouten\\LaravelPageBuilder\\Facade"
+                "PageBuilder": "InnoLabGlobal\\LaravelPageBuilder\\Facade"
             }
         }
     }
