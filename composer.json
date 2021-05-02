@@ -13,15 +13,9 @@
             "email": "admin@innolab.global"
         }
     ],
-    "repositories": [
-        {
-            "url": "https://github.com/innolabglobal/PHPageBuilder",
-            "type": "git"
-        }
-    ],
     "require": {
         "php": ">=7.0",
-        "hansschouten/phpagebuilder": "dev-master"
+        "innolabglobal/phpagebuilder": "^0.19"
     },
     "autoload": {
         "psr-4": {
