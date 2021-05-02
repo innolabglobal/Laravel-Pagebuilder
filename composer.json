@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "innolabglobal/phpagebuilder": "^0.19"
+        "innolabglobal/phpagebuilder": "^0.20"
     },
     "autoload": {
         "psr-4": {
