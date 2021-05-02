@@ -1,16 +1,16 @@
 {
-    "name": "hansschouten/laravel-pagebuilder",
+    "name": "innolabglobal/laravel-pagebuilder",
     "description": "A drag and drop pagebuilder to manage pages in any Laravel project.",
     "keywords": [
         "laravel",
         "pagebuilder"
     ],
-    "homepage": "https://github.com/HansSchouten/Laravel-Pagebuilder",
+    "homepage": "https://github.com/innolabglobal/Laravel-Pagebuilder",
     "license": "MIT",
     "authors": [
         {
-            "name": "Hans Schouten",
-            "email": "hans@falcosolutions.nl"
+            "name": "InnoLab Global",
+            "email": "admin@innolab.global"
         }
     ],
     "repositories": [
